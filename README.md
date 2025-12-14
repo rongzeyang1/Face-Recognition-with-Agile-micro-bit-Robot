@@ -19,4 +19,4 @@ This project implements a face recognition system using a micro:bit-based robot,
 ## Installation
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/microbit-face-robot.git
+   git clone https://github.com/rongzeyang1/Face-Recognition-with-Agile-micro-bit-Robot
